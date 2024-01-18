@@ -1,4 +1,4 @@
-# Build and Deploy a React LinkedIn Clone using React and Firebase.
+# Build and Deploy a React Admin Dashboard using React.
 
 ## Welcome! 
 Thanks for checking out this Application.
